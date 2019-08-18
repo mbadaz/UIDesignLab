@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="login1_theme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryLogin1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkLogin1</item>
+        <item name="colorAccent">@color/colorAccentLogin1</item>
+    </style>
+
+</resources>
