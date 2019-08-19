@@ -7,24 +7,8 @@
         <item>Detail Article</item>
     </array>
 
-    <!-- LOGIN CATEGORY -->
-    <array name="login_category">
-        <item>CardView 1</item>
-    </array>
-    <string name="loginPageHeader">Sign in</string>
-    <string name="field_emai">Email/username</string>
-    <string name="tvEmail">EMAIL</string>
-    <string name="tv_password">PASSWORD</string>
-    <string name="tv_sign_in_with">or sign in with:</string>
-    <string name="tv_signInHeading">SIGN IN</string>
 
     <!-- DETAIL ARTICLE CATEGORY -->
-    <array name="detail_article_category">
-        <item>Article 1</item>
-    </array>
-
-
-
 
 
 </resources>

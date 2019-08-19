@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="articles_categories">
+        <item>Simple</item>
+    </array>
+
+    <string name="article_title">Article Heading</string>
+    <string name="article_date">25.07.2019</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tempus arcu eros, nec lobortis odio congue nec. Pellentesque semper sed nulla eget rhoncus. Suspendisse a pretium diam, id ornare erat. In laoreet semper justo sed aliquet. Etiam eget mi commodo, efficitur magna consequat, semper metus. Sed ullamcorper fringilla interdum. Morbi commodo id ligula id laoreet. Morbi et bibendum lacus, finibus egestas lectus. Nullam gravida est sit amet euismod hendrerit. Cras semper tincidunt dignissim. Vestibulum bibendum, lectus in faucibus commodo, nisi quam cursus nisl, vitae dapibus est risus non sem. Morbi sit amet ex et diam euismod viverra sed a est. Aliquam varius commodo sapien a aliquam. Sed fringilla ipsum eget gravida gravida. Vestibulum et justo eu quam accumsan tincidunt nec dictum ipsum. Quisque elementum molestie mauris sit amet mollis</string>
+
+</resources>

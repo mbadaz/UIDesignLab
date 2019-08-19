@@ -13,10 +13,7 @@ android {
 
     sourceSets {
         main {
-            res.srcDirs = [
-                'src/main/res',
-                'src/main/res-login'
-            ]
+            res.srcDirs += ['src/main/res-login', 'src/main/res-detail-article']
         }
     }
 
